@@ -6,6 +6,8 @@ const routes = [
     path: "/",
     element: <Index />,
   },
+  { path: "/course-info/:courseName", element: <CourseInfo /> },
+  {},
 ];
 
 export default routes;
