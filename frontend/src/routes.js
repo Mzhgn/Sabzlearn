@@ -10,6 +10,7 @@ const routes = [
   },
   { path: "/course-info/:courseName", element: <CourseInfo /> },
   { path: "/category-info/:categoryName", element: <Category /> },
+  { path: "/article-info/:articleName", element: <ArticleInfo /> },
 ];
 
 export default routes;
