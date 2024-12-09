@@ -1,5 +1,5 @@
 import React from "react";
-import "ArticleInfo.css";
+import "./ArticleInfo.css";
 
 function ArticleInfo() {
   return <div></div>;
