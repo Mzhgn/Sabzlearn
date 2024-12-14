@@ -5,9 +5,10 @@ import routes from "./routes";
 import "./App.css";
 
 export default function App() {
+  const router = useRoutes(routes);
   return (
     <div>
-      <h1>Sabzlearn.ir</h1>
+      <h1>{router}</h1>
     </div>
   );
 }
