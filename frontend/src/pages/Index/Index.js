@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import Header from "../../Components/Header/Header";
 
-import './Index.css'
+import "./Index.css";
 
 export default function Index() {
-  return (
-    <div>Index</div>
-  )
+  return <div>Index</div>;
 }
