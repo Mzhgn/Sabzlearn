@@ -128,7 +128,7 @@
   margin-right: 1rem;
   transition: all 400ms ease;
   color: var(--primary-color);
-  height: 4rem;
+  height: 4.3rem;
 }
 
 .main-header__profile:hover {
