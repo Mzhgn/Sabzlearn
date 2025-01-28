@@ -133,7 +133,7 @@
 
 .main-header__profile:hover {
   background-color: var(--primary-color);
-  color: var(--white-color);
+  color: var(--primary-color);
 }
 
 /* Finish Navbar Styles */
