@@ -126,7 +126,7 @@
   border: 2px solid var(--primary-color);
   border-radius: 0.4rem;
   margin-right: 1rem;
-  transition: all 400ms ease;
+  transition: all 400ms ease-in;
   color: var(--primary-color);
   height: 4.3rem;
 }
